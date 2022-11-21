@@ -36,9 +36,4 @@ Production:
     npm run build
     npm run start
 ```
-    
-
-## Demo
-
-https://nextjs-store-mr-ema.vercel.app/
 
